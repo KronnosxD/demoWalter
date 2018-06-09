@@ -1,0 +1,6 @@
+.tborder{
+    border: 1px rgb(212, 212, 212) solid;
+    box-shadow: rgb(179, 179, 179) 3px 3px 3px;
+    margin-top: 50px;
+    text-align: center !important;
+}
